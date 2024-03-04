@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+}
+
+.box {
+    display: flex;
+}
+
+.head{
+    width: 30%;
+    border: 1px solid;
+}
+.foot {
+    width: 70%;
+    border: 1px solid;
+}
